@@ -31,3 +31,5 @@ Here dataset is one of MNIST, CIFAR-10, XOR, circle.
 - [nn.py](./nn.py): This file contains the class corresponding to the neural net and uses the functions defined in layers.py
 
 - [trainer.py](./trainer.py): This file contains the code to train the network on multiple datasets
+
+- [model.p](./model.p): Pre trained model for CIFAR10 dataset
